@@ -63,7 +63,7 @@ We evaluate these models using precision, recall, F1-score, and accuracy, with *
 
 ### Clone the repository and Run the file
 ```bash
-git clone https://github.com/<your-username>/SafeTweet-Cyberbullying-Detection.git
+git clone https://github.com/Anusha-RG/SafeTweet_AI-for-Cyberbullying-Detection-on-Social-Platforms.git
 cd SafeTweet-Cyberbullying-Detection
 
 python cyberbullying.py
